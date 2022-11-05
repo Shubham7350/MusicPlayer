@@ -1,4 +1,8 @@
 body{
     height: 100vh;
-    background-image:linear-gradient(#31087B, #000000);
+    background-image:linear-gradient(#31087B, #000000);;
+}
+*{
+    margin: 0;
+    padding: 0;
 }
